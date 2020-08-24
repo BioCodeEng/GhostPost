@@ -6,7 +6,7 @@ from datetime import datetime
 # Create your views here.
 def index(request):
     posts = Roast_Boast.objects.all().order_by('post_date')
-    return render(request, 'homepage.html', {"posts": posts})
+    return render(request, 'index.html', {"posts": posts})
 
 def add_roast_boast(request):
     if request.method == "POST":
