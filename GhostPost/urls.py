@@ -18,12 +18,12 @@ from django.urls import path
 from GhostApp import views
 
 urlpatterns = [
-    path('', views.homepage, name='homepage'),
+    path('admin/', admin.site.urls),
+    path('', views.index, name='homepage'),
     path('addpost/', views.add_roast_boast),
     path('upvote/<int:post_id>/', views.add_upvote),
     path('downvote/<int:post_id>/', views.add_downvote),
     path('roasts/', views.roasts),
     path('boasts/', views.boasts),
     path('topvotes/', views.top_votes),
-    path('admin/', admin.site.urls),
 ]
