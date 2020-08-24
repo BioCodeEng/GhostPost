@@ -4,7 +4,7 @@ from GhostApp.forms import Add_Roast_Boast
 from datetime import datetime
 
 # Create your views here.
-def homepage(request):
+def index(request):
     posts = Roast_Boast.objects.all().order_by('post_date')
     return render(request, 'homepage.html', {"posts": posts})
 
