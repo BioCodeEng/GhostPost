@@ -3,6 +3,8 @@ Author: Ally Engle
 Important: I DO NOT give permission for anyone to clone this, with the exception of Kenzie staff who are grading it. If you are not grading it, don't clone it.
 Also important: Part of Academic Integrity is definitely not plagiarising, but it also involves not interfering with, sabotaging, or obstructing another student's work. 
 
+Edit: Monday, August 24, 2020: After having this public only 5ish hours, there are already 5 Clones with 3 Unique cloners. I refer to the above paragraph about cloning unauthorized unless you are authorized Kenzie Grading Staff, and the above-mentioned policy against against not only plagiarism but interfering with, sabotgaing, or obstructing another student's work, something I've had to deal with since Q1.
+
 Sources that have provided assistance in understanding material in this assessment
 Citations will be made using, for example, [R1]
 
